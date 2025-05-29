@@ -1,3 +1,4 @@
+//O(logn)
 import java.util.Scanner;
 public class binary_search{
     private static int search(int[] arr,int target){
